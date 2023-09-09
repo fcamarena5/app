@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ductfitools.app-mergeDebugResources-28:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Francisco\\.gradle\\caches\\transforms-3\\145bf42ac91afb96f5c973b8d46d5c9f\\transformed\\appcompat-1.4.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
